@@ -1,0 +1,16 @@
+{
+  "name": "apollo-subs",
+  "version": "1.0.0",
+  "packageManager": "pnpm@10.12.1",
+  "type": "module",
+  "private": true,
+  "description": "A simple expo based ReactNative app with GraphQL",
+  "scripts": {
+    "start": "pnpm run -r start"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": "22.12",
+    "pnpm": "10.12.1"
+  }
+}

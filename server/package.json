@@ -1,0 +1,21 @@
+{
+  "name": "express-graphql-api",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "description": "A simple Express application with GraphQL integration.",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "nodemon src/app.js"
+  },
+  "dependencies": {
+    "graphql-yoga": "5.13.5",
+    "graphql": "16.11.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
